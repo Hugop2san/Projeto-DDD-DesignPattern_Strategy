@@ -1,0 +1,4 @@
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino-curso-nelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino-curso-nelio.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino-curso-nelio.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino-curso-nelio.csproj.CoreCompileInputs.cache

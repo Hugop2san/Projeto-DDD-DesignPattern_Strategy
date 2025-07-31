@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\bin\Debug\net8.0\treino.exe
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\bin\Debug\net8.0\treino.deps.json
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\bin\Debug\net8.0\treino.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\bin\Debug\net8.0\treino.dll
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\bin\Debug\net8.0\treino.pdb
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.dll
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\refint\treino.dll
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.pdb
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\ref\treino.dll
