@@ -12,3 +12,4 @@ C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\ne
 C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.pdb
 C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.genruntimeconfig.cache
 C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\ref\treino.dll
+C:\Users\SAMSUNG\source\repos\treino-curso-nelio\treino-curso-nelio\obj\Debug\net8.0\treino.sourcelink.json
