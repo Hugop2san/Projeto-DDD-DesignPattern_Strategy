@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAMSUNG\\source\\repos\\treino-curso-nelio\\treino-curso-nelio\\treino.csproj": {}
+    "C:\\Users\\SAMSUNG\\source\\repos\\treino-DDD-DesignPattern-strategy\\treinoDDDstrategy\\treino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAMSUNG\\source\\repos\\treino-curso-nelio\\treino-curso-nelio\\treino.csproj": {
+    "C:\\Users\\SAMSUNG\\source\\repos\\treino-DDD-DesignPattern-strategy\\treinoDDDstrategy\\treino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAMSUNG\\source\\repos\\treino-curso-nelio\\treino-curso-nelio\\treino.csproj",
+        "projectUniqueName": "C:\\Users\\SAMSUNG\\source\\repos\\treino-DDD-DesignPattern-strategy\\treinoDDDstrategy\\treino.csproj",
         "projectName": "treino",
-        "projectPath": "C:\\Users\\SAMSUNG\\source\\repos\\treino-curso-nelio\\treino-curso-nelio\\treino.csproj",
+        "projectPath": "C:\\Users\\SAMSUNG\\source\\repos\\treino-DDD-DesignPattern-strategy\\treinoDDDstrategy\\treino.csproj",
         "packagesPath": "C:\\Users\\SAMSUNG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAMSUNG\\source\\repos\\treino-curso-nelio\\treino-curso-nelio\\obj\\",
+        "outputPath": "C:\\Users\\SAMSUNG\\source\\repos\\treino-DDD-DesignPattern-strategy\\treinoDDDstrategy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

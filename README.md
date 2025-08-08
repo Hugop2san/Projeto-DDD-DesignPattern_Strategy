@@ -1,25 +1,22 @@
-# Treino com IEnumerable, Equals, GetHashCode e HashSet
+# 🎯 Objetivo do exercício
+Aplicar o padrão Strategy para realizar diferentes tipos de cálculo de desconto em produtos, com base em diferentes estratégias.
 
-Este repositório tem como objetivo estudar e demonstrar conceitos fundamentais de C# relacionados a coleções, comparação de objetos e eficiência no armazenamento de dados.  
-Esses conceitos são amplamente utilizados no desenvolvimento de aplicações reais, melhorando a legibilidade, performance e confiabilidade do código.
+# 🧠 Contexto do domínio
+Você tem uma loja virtual (console, por enquanto) com uma lista de produtos. Dependendo do tipo do produto ou campanha do momento, o desconto aplicado muda.
 
----
+# 🧱 Estrutura de diretórios sugerida
+/Domain
+  └── Produto.cs
+  └── IDescontoStrategy.cs
+  └── ProdutoComDesconto.cs
 
-## 1. Por que usar `IEnumerable`
-O `IEnumerable` é uma interface essencial no .NET, responsável por permitir a iteração sobre uma coleção de forma genérica.
+/Application
+  └── DescontoService.cs
 
-### Benefícios:
-- **Flexibilidade:** Pode ser usado com qualquer tipo de coleção (`List`, `Array`, `HashSet`, etc.).
-- **Lazy evaluation:** Combinado com `yield` e LINQ, permite processar elementos sob demanda.
-- **Abstração:** Facilita a escrita de métodos que funcionam com múltiplos tipos de coleções sem precisar conhecer sua implementação interna.
+/Infra
+  └── Descontos/
+        ├── DescontoFixo.cs
+        ├── DescontoPorcentagem.cs
+        ├── SemDesconto.cs
 
-### Exemplo:
-```csharp
-public IEnumerable<int> NumerosPares(IEnumerable<int> numeros)
-{
-    foreach (var n in numeros)
-    {
-        if (n % 2 == 0)
-            yield return n;
-    }
-}
+/Program.cs
