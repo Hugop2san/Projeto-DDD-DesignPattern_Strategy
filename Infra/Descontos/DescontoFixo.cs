@@ -3,12 +3,25 @@
 // Implementar concretamente as interfaces definidas no domínio (ex.: IProdutoRepository).
 
 using System;
-
-namespace treino_curso_nelio.infra.Descontos
+using treinoDDDstrategy.Domain;
+using treinoDDDstrategy.Domain.Enums;
+namespace treinoDDDstrategy.Infra.Descontos
 {
-    public class DescontoFixo
+    public class DescontoFixo : IDescontoStrategy
     {
         
+        public double CalcularDesconto(Produto produto )
+        {
+           
+            // desconto fixo caso o tipo seja ELETRONICO
+            if(produto.TipoProduto == TipoProduto.Eletronico )//Eletronico
+            {
+                return produto.Price - 50.00;
+            }
+
+
+          return produto.Price;
+        }
 
     }
 }

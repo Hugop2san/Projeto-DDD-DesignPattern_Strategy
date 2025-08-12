@@ -1,10 +1,10 @@
 using System;
 
-namespace treino_curso_nelio.Domain
+namespace treinoDDDstrategy.Domain
 {
     public interface IDescontoStrategy
     {
-        double CalcularDesconto(double PrecoOriginal);
+        double CalcularDesconto(Produto produto);
 
     }
 }
