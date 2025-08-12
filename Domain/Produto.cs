@@ -1,6 +1,7 @@
 using System;
 using System.Globalization;
 using treinoDDDstrategy.Domain.Enums;
+using treinoDDDstrategy.Domain.Interfaces;
 
 namespace treinoDDDstrategy.Domain
 {
@@ -20,7 +21,7 @@ namespace treinoDDDstrategy.Domain
             Price=price;
             TipoProduto = tipoproduto;
         }
-
+/*
         //PARA ME PERMITIR COMPARAR
         public override bool Equals(object obj )
         {
@@ -35,6 +36,7 @@ namespace treinoDDDstrategy.Domain
         {
             return  HashCode.Combine(Name, Price, TipoProduto);     // Name.GetHashCode() + Price.GetHashCode() + Type.GetHashCode(); SINTAXE ALTERNATIVA
         }
+*/
         public override string ToString()
         {
             return $"Product Information : \n Name: {Name} - Price: {Price.ToString("F2", CultureInfo.InvariantCulture)} - Type: {TipoProduto}";

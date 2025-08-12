@@ -1,6 +1,6 @@
 using System;
 
-namespace treinoDDDstrategy.Domain
+namespace treinoDDDstrategy.Domain.Interfaces
 {
     public interface IDescontoStrategy
     {

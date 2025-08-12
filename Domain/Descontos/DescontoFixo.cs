@@ -4,8 +4,12 @@
 
 using System;
 using treinoDDDstrategy.Domain;
+using treinoDDDstrategy.Domain.Interfaces;
 using treinoDDDstrategy.Domain.Enums;
-namespace treinoDDDstrategy.Infra.Descontos
+
+
+
+namespace treinoDDDstrategy.Domain
 {
     public class DescontoFixo : IDescontoStrategy
     {

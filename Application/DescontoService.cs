@@ -8,7 +8,7 @@ Chamar métodos do domínio (Produto.AplicarDesconto()), mas não implementar a 
 using System;
 using treinoDDDstrategy.Domain;
 using treinoDDDstrategy.Domain.Enums;
-using treinoDDDstrategy.Infra.Descontos;
+using treinoDDDstrategy.Domain.Interfaces;
 
 namespace treinoDDDstrategy.Application
 {

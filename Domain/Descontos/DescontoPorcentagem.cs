@@ -11,6 +11,7 @@ mas usando a regra do domínio).
 
 using System;
 using treinoDDDstrategy.Domain.Enums;
+using treinoDDDstrategy.Domain.Interfaces;
 
 namespace treinoDDDstrategy.Domain
 {
